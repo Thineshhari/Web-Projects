@@ -6,3 +6,6 @@
    
    
    <p>Our project about Employee Biometric System</p>
+
+
+<p>Welcome </p>
